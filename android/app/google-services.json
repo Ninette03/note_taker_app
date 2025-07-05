@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148123318410",
+    "project_id": "note-taker-app-3c5c3",
+    "storage_bucket": "note-taker-app-3c5c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148123318410:android:59fe59bf9d379db2fc1573",
+        "android_client_info": {
+          "package_name": "com.example.note_taker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdePzciyMs59StahAnLk-5Kxjs_q3Ied4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
